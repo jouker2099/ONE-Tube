@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: rgba(255, 4, 4, 0.733);
+    background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -52,7 +52,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgba(0, 0, 0, 0.808);
+    border: 3px solid green;
 }
 
 .categoria h2 {
